@@ -12,6 +12,6 @@ This project is capable of detecting web attacks based on HTTP packet patterns u
 
 Some examples of model recognition:  
 ![](example/xss.PNG)  
-*Cross-site scripting*
+*Cross-site scripting*   
 ![](example/xml.PNG)  
-*XML External Entities Injection*
+*XML External Entities Injection*   
