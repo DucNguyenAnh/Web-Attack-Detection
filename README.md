@@ -11,3 +11,4 @@ This project is capable of detecting web attacks based on HTTP packet patterns u
 
 
 Some examples of model recognition:
+![](example/xss.PNG)
