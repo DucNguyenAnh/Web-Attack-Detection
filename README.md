@@ -10,5 +10,6 @@ This project is capable of detecting web attacks based on HTTP packet patterns u
 - The model can make instant predictions so it can be integrated as WAF
 
 
-Some examples of model recognition:
-![](example/xss.PNG)
+Some examples of model recognition:  
+![](example/xss.PNG)  
+![](example/xml.PNG)   
